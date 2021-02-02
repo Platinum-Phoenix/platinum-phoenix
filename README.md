@@ -1,6 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Platinum-Phoenix&include_all_commits=true&show_icons=true&theme=merko&count_private=true&cache_seconds=1800">
-  </img>
-</p>
+I'm an enthusiatic developer thats comfortable with JavaScript, TypeScript, C, and C++.
+
+
+# GitHub Statistics
+<a href="https://github.com/Platinum-Phoenix">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Platinum-Phoenix&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/Platinum-Phoenix">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Platinum-Phoenix&layout=compact&theme=dracula" />
+</a>
