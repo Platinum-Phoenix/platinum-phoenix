@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm an enthusiatic developer thats comfortable with JavaScript, TypeScript, C, and C++.
+I'm an enthusiatic developer thats comfortable with JavaScript, TypeScript, and C.
 
 
 # GitHub Statistics
